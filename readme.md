@@ -9,14 +9,14 @@
 ### Note: spark must be configure with HIve and Hadoop 
 
 ## 1. Installing KAFKA & ZOOKEEPER 
-[KAFKA & ZOOKEEPER ]( Spark-Streaming-with-YouTube-Data-API/docs/Insatalling_kafka_and_zookeer.md
+[KAFKA & ZOOKEEPER ](docs/Insatalling_kafka_and_zookeer.md
 )
 
 ## 2. Installing Google Youtube Data API
-[YouTube Data API]( Spark-Streaming-with-YouTube-Data-API/docs/Setting_up_YouTube_DATA_api.md
+[YouTube Data API](docs/Setting_up_YouTube_DATA_api.md
 )
 ## 3. Spark streaming Test
-[Spark Streaming Test]( Spark-Streaming-with-YouTube-Data-API/docs/Spark_stream_testing.md
+[Spark Streaming Test](docs/Spark_stream_testing.md
 )
 ## 4. Time to Start some SPARK Stream
 <p> Hope.., till now everythings are going fine. So we can start some streaming</p>
