@@ -5,7 +5,7 @@ from googleapiclient.errors import HttpError
 from kafka import SimpleProducer, KafkaClient
 import json
 
-DEVELOPER_KEY = 'AIzaSyB8-REIEV-iARGEQZkxbJwFSfnpdGGKbWE' #new api key
+DEVELOPER_KEY = 'past here you YouYube developer key' #new api key
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 

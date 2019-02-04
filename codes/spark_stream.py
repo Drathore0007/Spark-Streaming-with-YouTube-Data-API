@@ -19,7 +19,7 @@ def function_to_split_rows(records):
 
 if __name__ == "__main__":
 
-    zkQuorum = "localhost:2182"
+    zkQuorum = "localhost:2181"
     topic = "youtube"
 
     #creating entery points for spark, hive and streaming
@@ -35,4 +35,4 @@ if __name__ == "__main__":
 
     ssc.start()
     ssc.awaitTermination()
-    #spark-submit --jars /home/dharmendra/Downloads/spark-streaming-kafka-0-8-assembly_2.11-2.2.1.jar  spark.py localhost:2182 youtube
+    #spark-submit --jars ./spark-streaming-kafka-0-8-assembly_2.11-2.2.1.jar  spark_stream.py localhost:2181 youtube
